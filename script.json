@@ -1,5 +1,17 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "Hi":   "Hey there!\nWe’re sad to see you leave the Generator. We hope you had a great time in Dublin and enjoyed your stay with Us.%[I DID](postback:I_DID)",
+    "I DID": "You did, Great! <insert happy gif>\nTo provide Generator with feedback, which would mean that they can make your next stay, and all guests experience even better, do you mind completing the 1- minute survey?\nThink of this as your good deed for the day!%[OK](postback:OK)",   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
