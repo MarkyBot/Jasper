@@ -12,7 +12,7 @@
     
     
     
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "HELLO": "Hey there!\nWe’re sad to see you leave the Generator. We hope you had a great time in Dublin and enjoyed your stay with Us.%[I DID](postback:I_DID)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
